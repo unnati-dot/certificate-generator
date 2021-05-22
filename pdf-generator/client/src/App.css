@@ -1,0 +1,28 @@
+*{
+    background-color: bisque;
+}
+.App{
+    margin: 2px;
+    padding: 20px;
+    justify-content: space-between;
+    position: absolute;
+    margin-top: 50px;
+}
+input{
+    size: 70px;
+    border-radius: 20px;
+    margin: 20px;
+    height: 1.5rem;
+    font-size: large;
+    outline: 0px;
+}
+button{
+    size: 3rem;
+    color: cornsilk;
+    background-color: black;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    size: inherit;
+}
